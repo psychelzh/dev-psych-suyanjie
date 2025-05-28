@@ -1,0 +1,15 @@
+project:
+  type: book
+
+book:
+  title: "发展心理学（第2版）"
+  author: "苏彦捷"
+  date: last-modified
+  chapters:
+    - index.qmd
+
+lang: zh
+
+format:
+  html:
+    theme: cosmo
