@@ -7,9 +7,9 @@ book:
   date: last-modified
   chapters:
     - index.qmd
-
-lang: zh
+    - 00.qmd
 
 format:
   html:
     theme: cosmo
+    lang: zh
