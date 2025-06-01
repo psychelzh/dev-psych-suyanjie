@@ -13,3 +13,6 @@ format:
   html:
     theme: cosmo
     lang: zh
+
+execute:
+  freeze: auto
